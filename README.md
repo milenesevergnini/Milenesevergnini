@@ -2,7 +2,7 @@
 
 Meu nome é Milene Severgnini
 
--Estou estudando na Alura
+-Estou estudando na [Alura] (https://www.alura.com.br)
 -Estou me desenvolvendo na linguagem JevaScript
 -Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
